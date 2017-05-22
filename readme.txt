@@ -9,4 +9,4 @@ Git tracks changes of files.
 
 或者，您可以通过运行ssh -T git@example.com
 （替换example.com为GitLab域）并验证是否收到Welcome to GitLab消息来测试您的设置。
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
